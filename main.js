@@ -1,2 +1,2 @@
 var text = "Text"
-var truth = "Hello World!"
+var truth = "Hello Test!"
